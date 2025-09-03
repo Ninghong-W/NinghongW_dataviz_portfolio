@@ -11,10 +11,12 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi! I am Ninghong Wei, a second year MAM student. I come from China, Chengdu.
+Hi, I’m Ninghong Wei, a Master of Arts Management student at Carnegie Mellon University, Heinz College. 
+I’m originally from Chengdu, China, and I earned my bachelor’s degree in Arts Management at the Beijing Dance Academy. 
+I’m passionate about dance (Chinese ethnic and folk dance, Chinese classical dance, and ballet) and also enjoy playing the piano. This past summer, I had the chance to explore pottery-making, which was a wonderful new experience.
 
 # What I hope to learn
-Data Visualization! I hope that by the end of this class I will be able to better use data to help me make decisions and judgements. 
+I am taking the course learning Telling Story With Data right now. I hope that by the end of this class I will be able to better use data to help me make decisions and judgements. 
 
 # Portfolio
 
