@@ -22,39 +22,7 @@ I am taking the course learning Telling Story With Data right now. I hope that b
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-<div id="tableauViz" style="max-width: 1000px; margin: 0 auto; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden;">
-  <noscript>
-    <a href="#">
-      <img alt="OECD Debt to GDP ratios, 2007-2024"
-           src="https://public.tableau.com/static/images/OE/OECDDebttoGDPratios2007-2024/Sheet1/1.png"
-           style="border: none; width: 100%;" />
-    </a>
-  </noscript>
-  <object class="tableauViz" style="display:none; width:100%; height:600px;">
-    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
-    <param name="embed_code_version" value="3" />
-    <param name="name" value="OECDDebttoGDPratios2007-2024/Sheet1" />
-    <param name="tabs" value="no" />
-    <param name="toolbar" value="yes" />
-    <param name="static_image" value="https://public.tableau.com/static/images/OE/OECDDebttoGDPratios2007-2024/Sheet1/1.png" />
-    <param name="animate_transition" value="yes" />
-    <param name="display_static_image" value="yes" />
-    <param name="display_spinner" value="yes" />
-    <param name="display_overlay" value="yes" />
-    <param name="display_count" value="yes" />
-    <param name="language" value="zh-CN" />
-    <param name="filter" value="publish=yes" />
-  </object>
-</div>
-
-<script type="text/javascript">
-  var divElement = document.getElementById('tableauViz');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.height = (divElement.offsetWidth * 0.6) + 'px'; // 高度占比更优雅
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+<div class='tableauPlaceholder' id='viz1757376235375' style='position: relative'><noscript><a href='#'><img alt='OECD Debt to GDP ratios, 2007-2024 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDDebttoGDPratios2007-2024&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='OECDDebttoGDPratios2007-2024&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDDebttoGDPratios2007-2024&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1757376235375');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
