@@ -44,10 +44,41 @@ After the discussion, I decided to make the following changes for my final visua
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+**Process Documentation**
+1.Initial decision
+Based on the feedback, I first categorized the data by region. Since Europe has a reasonable number of countries, and European countries vary in their level of development and represent different patterns, I chose to keep only European countries. Then, from my perspective as someone currently in the United States, I decided to use the U.S. as a baseline and compare it against Europe.
+
+2.Adding contextual data
+To make the visualization more meaningful, I introduced another dataset: GDP per capita (current US$) from World Bank data. This allowed me to connect economic development with paid vacation days, making the chart more insightful.
+
+3.Data preparation
+a. I edited the dataset in Excel, keeping only the European countries and the U.S.
+b. I retrieved GDP per capita data for these countries from the World Bank and added it into my Excel sheet.
+c. I further divided European countries into four regions: Eastern, Southern, Western, and Northern Europe.
+
+4.First attempt in Tableau: scatterplot
+My first trial was a scatterplot, with GDP per capita on the x-axis and total paid vacation days on the y-axis. While it clearly showed the difference between the U.S. and Europe, there were some issues:
+a. Some data points were too close, making it hard to distinguish individual countries.
+b. The chart looked sparse and empty overall.
+c. Internal comparisons within Europe were difficult to interpret.
+<img width="1024" height="1080" alt="image" src="https://github.com/user-attachments/assets/d418815a-9d6c-405f-a682-0bd7ae2c28a7" />
+
+5.Second attempt: bar chart
+I then tried a bar chart with countries on the x-axis and paid vacation days on the y-axis, sorted by GDP. I used color to distinguish regions. However, the chart became too cluttered and difficult to read, so I abandoned this option.
+
+6.Final method: Dual Axis chart
+I found a workable solution with a dual axis design:
+a. The first axis: a bar chart with countries on the x-axis and paid vacation days on the y-axis, sorted in descending order by paid vacation days.
+b. The second axis: a line chart with countries on the x-axis and GDP on the y-axis, aligned with the same order as the bar chart.
+c. Overlaid the two charts to create a combined visualization.
+d. Highlighting comparisons: To emphasize the comparison between the U.S. and European countries, I added a reference line for U.S. GDP. This makes it easy to quickly identify which countries have a GDP per capita higher than the U.S., while simultaneously comparing vacation days.
 
 ## References
-_List any references you used here._
+Watson, Bethany. “Which Country Gets the Most Paid Vacation Days?” Resume.Io, November 14, 2022. https://resume.io/blog/which-country-gets-the-most-paid-vacation-days.
+
+World Bank Open Data. “World Bank Open Data.” Accessed September 19, 2025. https://data.worldbank.org.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to brainstorm what additional variables could make the visualization more meaningful. I proposed “Average monthly income” and similar economic indicators; ChatGPT recommended using GDP per capita (current US$) for clearer cross-country comparability and pointed me to the World Bank for datas
 
+Chatgpt was used to guide me in using Tableau, providing me with detailed step-by-step instructions to help me achieve the operations I wanted in Tableau.
