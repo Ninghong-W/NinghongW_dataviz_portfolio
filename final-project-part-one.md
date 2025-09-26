@@ -22,13 +22,12 @@ Text here...
 
 Text here...
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+The dataset used in this project can be found here:  
+👉 [data-final-project.xlsx](data/data-final-project.xlsx)
+
+This dataset contains 7,081 video records from 30 Bilibili dance influencers, including variables such as views, likes, comments, shares, collections, coins, video length, and release time.
+
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
