@@ -34,15 +34,20 @@ c. Does upload timing determine success?
 
 (1)
 
+
+
 <img width="611" height="303" alt="image" src="https://github.com/user-attachments/assets/fd1e2579-6a70-41f7-a95f-9d37baf5a0da" />
 
 
 
 (2)
+
+
 <img width="416" height="312" alt="image" src="https://github.com/user-attachments/assets/0e4a9fbf-bd11-40c0-9c39-663cc7ba66ac" />
 
 
 <img width="430" height="323" alt="image" src="https://github.com/user-attachments/assets/b372aade-22a4-48b1-8708-8cfb29511498" />
+
 
 
 (3)
