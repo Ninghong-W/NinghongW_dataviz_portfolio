@@ -2,8 +2,7 @@
 
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
+
 In this digital era, characterized by the convergence of "mobile + social + video", new media has created both opportunities and challenges for the dissemination of dance. Social video platforms have become crucial channels for dance enthusiasts, professional dancers, and dance institutions to showcase their talents, share educational resources, build personal or organizational brands, and promote cultural dissemination.
 
 Among China’s leading content-driven platforms, Bilibili stands out as one of the most active online communities for young people. Its dance section is vibrant, marked by diverse content creation, broad audience participation, and strong potential for creators to establish personal brands and monetize their work. Furthermore, due to the platform’s historical development and unique positioning, Bilibili audiences are more receptive to long-form and high-quality content, making it a favorable environment for dance video dissemination.
