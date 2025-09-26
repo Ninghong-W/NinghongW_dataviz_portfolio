@@ -60,9 +60,6 @@ c. Does upload timing determine success?
 
 
 
-<img width="546" height="457" alt="image" src="https://github.com/user-attachments/assets/ca41b418-845e-4e86-9ae2-b4c732f27d09" />
-
-
 
 A.
 
