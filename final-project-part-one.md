@@ -10,14 +10,23 @@ Among China’s leading content-driven platforms, Bilibili stands out as one of 
 As both a dance enthusiast with 18 years of training, an art manager, and a passionate Bilibili user, I am interested in leverage data to uncover patterns in how dance videos circulate on the platform. While compelling content is undeniably central, other controllable factors, such as video length and upload timing, also influence performance metrics. This project seeks to identify those factors and provide data-based strategies for dance creators to enhance the reach and impact of their work.
 
 Story Outline (Draft)：
+
 (1)Opening / Hook: The opportunities and challenges of new media for dance dissemination.
+
 (2)Background: Why focus on Bilibili and its dance section.
+
 (3)The Rising Creators: Show the growth and development of 30 top dance uploaders.
+
 (4)Key Questions:
+
 a. Does a larger fan base always lead to more views?
+
 b. Does video length affect favorites and comments?
+
 c. Does upload timing determine success?
+
 (5)Analysis & Insights: Explore these key questions through data and visualizations.
+
 (6)Recommendations: Provide operational suggestions for dance creators.
 
 ## Initial sketches
