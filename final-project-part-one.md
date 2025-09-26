@@ -9,11 +9,12 @@ Among China’s leading content-driven platforms, Bilibili stands out as one of 
 
 As both a dance enthusiast with 18 years of training, an art manager, and a passionate Bilibili user, I am interested in leverage data to uncover patterns in how dance videos circulate on the platform. While compelling content is undeniably central, other controllable factors, such as video length and upload timing, also influence performance metrics. This project seeks to identify those factors and provide data-based strategies for dance creators to enhance the reach and impact of their work.
 
+
 Story Outline (Draft)：
 
-(1)Opening / Hook: The opportunities and challenges of new media for dance dissemination.
+(1)Opening: The opportunities and challenges of new media for dance dissemination.
 
-(2)Background: Why focus on Bilibili and its dance section.
+(2)Background: Why focus on Bilibili and dance section.
 
 (3)The Rising Creators: Show the growth and development of 30 top dance uploaders.
 
@@ -30,37 +31,57 @@ c. Does upload timing determine success?
 (6)Recommendations: Provide operational suggestions for dance creators.
 
 ## Initial sketches
+
 (1)
+
 <img width="611" height="303" alt="image" src="https://github.com/user-attachments/assets/fd1e2579-6a70-41f7-a95f-9d37baf5a0da" />
+
 
 
 (2)
 <img width="416" height="312" alt="image" src="https://github.com/user-attachments/assets/0e4a9fbf-bd11-40c0-9c39-663cc7ba66ac" />
+
+
 <img width="430" height="323" alt="image" src="https://github.com/user-attachments/assets/b372aade-22a4-48b1-8708-8cfb29511498" />
 
 
 (3)
 
+
+<img width="546" height="457" alt="image" src="https://github.com/user-attachments/assets/ca41b418-845e-4e86-9ae2-b4c732f27d09" />
+
+
+
 A.
+
 
 <img width="357" height="295" alt="image" src="https://github.com/user-attachments/assets/8004878b-e012-4576-867b-63e8eabe69dc" />
 
+
 <img width="395" height="261" alt="image" src="https://github.com/user-attachments/assets/41b55edf-b754-4000-80a6-8ea295fe70d9" />
 
+
 <img width="368" height="243" alt="image" src="https://github.com/user-attachments/assets/82377ad2-370e-47e3-8fb0-f02af931dbdf" />
+
 
 <img width="444" height="293" alt="image" src="https://github.com/user-attachments/assets/f2fc1241-8efc-4fd4-9d15-e7e5520d8d11" />
 
 
+
 B.
+
 
 <img width="457" height="274" alt="image" src="https://github.com/user-attachments/assets/b703f7b4-df6e-49db-8832-f0ab0eda73d2" />
 
+
 <img width="391" height="234" alt="image" src="https://github.com/user-attachments/assets/01c251d5-e1ad-49d0-8781-281283b44a2c" />
+
 
 <img width="380" height="228" alt="image" src="https://github.com/user-attachments/assets/a2b3d5a1-c1c7-4b8c-a64d-23c4baf52f37" />
 
+
 <img width="430" height="258" alt="image" src="https://github.com/user-attachments/assets/b745aec4-58af-455e-9719-d29b90e961d6" />
+
 
 
 # The data
