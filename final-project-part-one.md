@@ -23,22 +23,34 @@ c. Does upload timing determine success?
 
 ## Initial sketches
 (1)
+<img width="3168" height="1572" alt="image" src="https://github.com/user-attachments/assets/393709b5-1997-4e74-964a-90f1b9ccccb6" />
 
 (2)
 <img width="416" height="312" alt="image" src="https://github.com/user-attachments/assets/0e4a9fbf-bd11-40c0-9c39-663cc7ba66ac" />
 <img width="430" height="323" alt="image" src="https://github.com/user-attachments/assets/b372aade-22a4-48b1-8708-8cfb29511498" />
 
+
 (3)
+
 A.
+
 <img width="357" height="295" alt="image" src="https://github.com/user-attachments/assets/8004878b-e012-4576-867b-63e8eabe69dc" />
+
 <img width="395" height="261" alt="image" src="https://github.com/user-attachments/assets/41b55edf-b754-4000-80a6-8ea295fe70d9" />
+
 <img width="368" height="243" alt="image" src="https://github.com/user-attachments/assets/82377ad2-370e-47e3-8fb0-f02af931dbdf" />
+
 <img width="444" height="293" alt="image" src="https://github.com/user-attachments/assets/f2fc1241-8efc-4fd4-9d15-e7e5520d8d11" />
 
+
 B.
+
 <img width="457" height="274" alt="image" src="https://github.com/user-attachments/assets/b703f7b4-df6e-49db-8832-f0ab0eda73d2" />
+
 <img width="391" height="234" alt="image" src="https://github.com/user-attachments/assets/01c251d5-e1ad-49d0-8781-281283b44a2c" />
+
 <img width="380" height="228" alt="image" src="https://github.com/user-attachments/assets/a2b3d5a1-c1c7-4b8c-a64d-23c4baf52f37" />
+
 <img width="430" height="258" alt="image" src="https://github.com/user-attachments/assets/b745aec4-58af-455e-9719-d29b90e961d6" />
 
 
@@ -50,8 +62,13 @@ Based on the current development of Bilibili’s dance section, I used the numbe
 
 I will:
 > (1) Provide a descriptive analysis to briefly introduce the development of these 30 top uploaders, including each uploader’s total number of fans, total number of published videos, and total views.
+
 > (2) Analyze the impact of fan count on total views and coins.
-> (3) Examine the controllable factors for video creators. Explore the video duration & upload time and their relationship with video performance metrics, including views, likes, favorites, coins, comments, and shares,  to identify suitable publishing strategies --- a. Whether video duration influences views, favorites, and comments; b. Whether the time of publication affects views, likes, and shares.
+
+> (3) Examine the controllable factors for video creators. Explore the video duration & upload time and their relationship with video performance metrics, including views, likes, favorites, coins, comments, and shares,  to identify suitable publishing strategies:
+> a. Whether video duration influences views, favorites, and comments;
+> b. Whether the time of publication affects views, likes, and shares.
+
 > (4) Finally, provide operational recommendations for dance related video creators.
 
 
