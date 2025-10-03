@@ -25,13 +25,19 @@ Arts organizations interested in engaging younger audiences through digital medi
 Text here!
 
 Goal 1. Clarity - Understand if viewers can quickly grasp the main idea of the story.
+
 Questions to Ask 1. Can you quickly understand what the story is about?
 
+
 Goal 2. Effectiveness - Identify which visualization is most impactful, and whether any visual is confusing or needs more explanation.
+
 Questions to Ask 2. Which visual made the strongest impression and why? Was there any visual that confused you or needed more explanation?
 
+
 Goal 3. Usefulness - Assess if the insights and recommendations are convincing, and whether creators would find them useful.
+
 Question to Ask 3. Did the part about insights and recommendations feel convincing? If you were a Bilibili dance creator, would you find it useful?
+
 
 
 ## Interview findings
