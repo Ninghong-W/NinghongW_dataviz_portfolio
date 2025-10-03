@@ -29,9 +29,11 @@ Goal 1. Clarity - Understand if viewers can quickly grasp the main idea of the s
 Questions to Ask 1. Can you quickly understand what the story is about?
 
 
+
 Goal 2. Effectiveness - Identify which visualization is most impactful, and whether any visual is confusing or needs more explanation.
 
 Questions to Ask 2. Which visual made the strongest impression and why? Was there any visual that confused you or needed more explanation?
+
 
 
 Goal 3. Usefulness - Assess if the insights and recommendations are convincing, and whether creators would find them useful.
@@ -44,11 +46,13 @@ Question to Ask 3. Did the part about insights and recommendations feel convinci
 
 Question 1. Can you quickly understand what the story is about?
 
+
 Interview 1: I could understand the main content from the summary paragraph (He is familiar with Bilibili). But just looking at the title, it wasn’t immediately clear. The title itself didn’t really tell the story.
 
 Interview 2: After reading the story, I understood it was about factors influencing the spread of dance videos on social media. But I didn’t know what Bilibili was, which caused some confusion at the start. The introduction should explain these terms more clearly.
 
 Interview 3: I think this is about the impact of different video features on the dissemination effect. 
+
 
 
 Question 2. Which visual made the strongest impression and why? Was there any visual that confused you or needed more explanation?
@@ -58,6 +62,7 @@ Interview 1: The graphics are clear. But for the second part, it didn’t label 
 Interview 2: Evey section looks similar which make is easy to understand. But the charts with averages didn’t reflect outliers. Using only the average as a metric may be biased. A box-and-whisker plot is recommend. The impact of the number of fans on video dissemination is not reflected
 
 Interview 3：The third section about sentence patterns didn’t make it clear it was about video title styles. A clearer title and short explanation are needed.
+
 
 
 Question 3. Did the part about insights and recommendations feel convincing? If you were a Bilibili dance creator, would you find it useful?
@@ -70,15 +75,18 @@ Interview 3: The finding about title style wasn’t very clear. The data didn’
 
 
 
+
 # Identified changes for Part III
 
 Research synthesis 1. Some interviewees did not know what “Bilibili” was, and the introduction lacked basic explanation of terms. The title also did not clearly convey the main story.  
 
-Anticipated changes for Part III 1. Add a short introduction of the Bilibili platform at the beginning, using plain language to clarify the research context. Revise the title to make it more narrative and directly communicate the research theme.                                 
+Anticipated changes for Part III 1. Add a short introduction of the Bilibili platform at the beginning, using plain language to clarify the research context. Revise the title to make it more narrative and directly communicate the research theme.          
+
 
 Research synthesis 2. The second anchor (release time) did not indicate which hours corresponded to “work, leisure, sleep,” making it harder to interpret. Some also noted these categories are subjective.  
 
 Anticipated changes for Part III 2. Add clear annotations to show which hours are categorized as work, leisure, and sleep, under the pie chart. Include a note that this categorization is based on a reference or assumption
+
 
 
 Research synthesis 3. Charts relied heavily on averages, which failed to show outliers. Participants wanted to see how fan count influences each video reach.   
@@ -86,14 +94,17 @@ Research synthesis 3. Charts relied heavily on averages, which failed to show ou
 Anticipated changes for Part III 3. Considering: Might change to box-and-whisker plot to highlight variation and outliers, making the relationship more transparent. But this will make the visual more difficult to understand for me.
 
 
+
 Research synthesis 4. The third anchor (sentence pattern) had a confusing title; viewers did not realize it was about video title style.
 
 Anticipated changes for Part III 4. Revise the anchor’s title to a clearer phrase (e.g., “Impact of Title Style on Video Reach”) and add a short explanation of what the variable means.
 
 
+
 Research synthesis 5. Some people felt its value was limited without considering fan count. Others thought some findings (e.g., title style) were inconclusive.
 
 Anticipated changes for Part III 5. Consider to add a graph shows the relationship between fans & views.
+
 
 
 # Moodboards / personas
