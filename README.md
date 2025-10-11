@@ -35,16 +35,16 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 </script>
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+https://ninghong-w.github.io/NinghongW_dataviz_portfolio/critique-by-design
+This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+This analysis looks at video data from the top 30 Bilibili dance creators. Focusing on length, release time, title style, and creative form, which shape video reach. It offers clear recommendations for current and future dance video creators on Bilibili to better connect with audiences.
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
 
 ### Changing text
 
